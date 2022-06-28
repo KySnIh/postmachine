@@ -1,0 +1,8 @@
+﻿  ConsoleVisualization.c
+  DoublyLinkedListBool.c
+  main.c
+  post.c
+C:\Users\Stepan Kogay\OneDrive\Рабочий стол\Machine Posta\post.c(200,12): warning C4013: kbhit: нет определения; предполагается "extern" с возвратом типа "int"
+  SinglyLinkedListString.c
+  Создание кода...
+  Machine Posta.vcxproj -> C:\Users\Stepan Kogay\OneDrive\Рабочий стол\Machine Posta\x64\Debug\MachinePosta.exe
